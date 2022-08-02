@@ -1,1 +1,1 @@
-# react-18-seed-project
+# reactJs-18-seed-project
